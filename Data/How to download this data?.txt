@@ -1,0 +1,20 @@
+To download the dataset for this project, you can use one of the following methods:
+
+Using Python and the kagglehub library:
+To download the dataset automatically, execute the following code:
+((((python))))
+  
+import kagglehub
+# Download latest version
+path = kagglehub.dataset_download("mlg-ulb/creditcardfraud")
+print("Path to dataset files:", path)
+  
+This code will automatically download the latest version of the dataset and display the path to the files on your system.
+
+Manual Download from Kaggle:
+Alternatively, you can manually download the dataset from the Kaggle website. Visit the following page to access the dataset:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Why the dataset is not directly included in this repository?
+The dataset is not directly included in this repository due to its large size. GitHub imposes limitations on file sizes and does not allow hosting large datasets. As a result, 
+we have provided links and methods for accessing the dataset directly from Kaggle.

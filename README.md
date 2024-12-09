@@ -1,4 +1,4 @@
-# Machine-learning-Classification
+# Machine-learning-Classification-KNN-DT(ID3 & C4.5)-RF
 This repository is for fall semester in ML course - SRBIAU university
 
 Hello! I am Saeed Babagolzadeh, an assistant associate Professor in the field of Artificial Intelligence. In this repository, I have shared my implementations in the field of Machine Learning, particularly in the Classification domain, using the Credit Card dataset from Kaggle.

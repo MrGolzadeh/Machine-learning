@@ -6,17 +6,25 @@ Hello! I am Saeed Babagolzadeh, an assistant professor in the field of Artificia
 In this project, I worked on one of the challenging datasets from Kaggle and utilized various machine learning methods, including:
 
 K-Nearest Neighbors (KNN)
+
 Decision Tree
+
 Implementations of the ID3 and C4.5 models
+
 Random Forests with different depths
+
 I achieved very good and interesting results. My main goal was to analyze the data thoroughly, implement appropriate models, and evaluate their performance. The results of this project not only demonstrate high accuracy but also offer practical applicability in real-world scenarios.
 
 The code and documentation in this repository include:
 
 Data preprocessing
+
 Implementation of machine learning models
+
 Evaluation and analysis of results for each model
+
 Comparison of models
+
 I encourage you to review the provided code and documentation. If you have any questions or suggestions for improving this project, I would be happy to hear them.
 
 I hope this project proves useful for you and that you can benefit from the presented results and methodologies.
